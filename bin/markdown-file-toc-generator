@@ -8,11 +8,11 @@
 #
 # Syntax:
 #
-#     markdown-toc-generator <file>
+#     markdown-file-toc-generator <file>
 #
 # Example:
 #
-#     markdown-toc-generator example.md
+#     markdown-file-toc-generator example.md
 #
 # Limits:
 #
@@ -31,7 +31,7 @@
 #
 # Copy this command to somewhere on your path such as:
 #
-#     curl https://raw.githubusercontent.com/SixArm/markdown-toc-generator/master/markdown-toc-generator --output /usr/local/bin/markdown-toc-generator
+#     curl https://raw.githubusercontent.com/SixArm/markdown-file-toc-generator/master/markdown-file-toc-generator --output /usr/local/bin/markdown-file-toc-generator
 #
 # TODO: transition this to a gem.
 #
@@ -133,7 +133,7 @@
 #
 # ## Tracking
 #
-# * Command: markdown-toc-generator
+# * Command: markdown-file-toc-generator
 # * Version: 1.6.0
 # * Created: 2018-02-04
 # * Updated: 2018-02-06
